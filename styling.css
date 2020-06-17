@@ -38,5 +38,11 @@ h2{
 
 
 .boxed {
-  border: 1px solid green ;
-} 
+  border: 1px solid #edebeb  ;
+  width:500px;
+  background-color:#edebeb;
+  
+ 
+}
+
+ 
